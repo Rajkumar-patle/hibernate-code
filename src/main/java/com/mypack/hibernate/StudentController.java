@@ -16,6 +16,9 @@ public class StudentController {
 		do {
 			System.out.println("Press 1 for Save Student details...");
 			System.out.println("Press 2 for Delete Student details...");
+			System.out.println("Press 3 for Delete Student details...");
+			System.out.println("Press 4 for Delete Student details...");
+
 			int choice = scanner.nextInt();
 
 			switch (choice) {
